@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.redBack {
+    background-color: #FFA6A7;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.redBack.big {
+    font-size: 24px;
+}
+
+#blue {
+    color: #0000FF;
+    font-size: 36px;
+}
+
+#green {
+    background-color: #80FF80;
+    font-size: 24px;
+    font-weight: bold;
+}
